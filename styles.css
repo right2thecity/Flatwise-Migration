@@ -1,1 +1,43 @@
 /* css styles */
+
+body, #quarto-header .navbar {
+    background-color: rgb(255, 252, 82);
+    color: #000;
+}
+
+.nav-link span {
+    color: #000;
+}
+
+.anchored {
+    border-bottom: 1px solid #000;
+}
+
+a, .sidebar nav[role="doc-toc"] ul > li > a.active, .sidebar nav[role="doc-toc"] ul > li > ul > li > a.active {
+    color: #811c62!important;
+    text-decoration-line: underline!important;
+    text-decoration-thickness: 2px;
+    text-underline-offset: -1px;
+    text-underline-position: under;
+}
+
+a:hover, a:focus, .sidebar nav[role="doc-toc"] ul > li > a.active:hover, .sidebar nav[role="doc-toc"] ul > li > ul > li > a.active:hover, .sidebar nav[role="doc-toc"] ul > li > a.active, .sidebar nav[role="doc-toc"] ul > li > ul > li > a.active:focus, .sidebar nav[role="doc-toc"] ul > li > a:hover, .sidebar nav[role="doc-toc"] ul > li > ul > li > a:hover, .sidebar nav[role="doc-toc"] ul > li > a:hover, .sidebar nav[role="doc-toc"] ul > li > ul > li > a:focus {
+        color: #811c62 !important;
+        transition: text-underline-offset .2s, text-decoration-color .2s;
+        text-underline-offset: 1px;
+}
+
+.sidebar nav[role="doc-toc"] ul > li > a.active {
+    border-left: 2px solid #811c62 !important;
+    text-decoration: none;
+    text-decoration-line: none!important;
+}
+
+.navbar a {
+    text-decoration: none;
+    text-decoration-line: none!important;
+}
+
+.navbar a:hover span, .navbar a:focus span {
+    color: #811c62 !important;
+}
