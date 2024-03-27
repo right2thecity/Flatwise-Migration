@@ -72,3 +72,7 @@ a:hover, a:focus, .sidebar nav[role="doc-toc"] ul > li > a.active:hover, .sideba
 .navbar a:hover span, .navbar a:focus span {
     color: #811c62 !important;
 }
+
+.quarto-layout-cell figure, .quarto-layout-cell > p {
+    margin: 0;
+}
