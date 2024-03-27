@@ -36,7 +36,7 @@ body, #quarto-header .navbar {
 }
 
 .anchored {
-    border-bottom: 1px solid #000;
+    border-bottom: none;
 }
 
 a, .sidebar nav[role="doc-toc"] ul > li > ul > li > a {
