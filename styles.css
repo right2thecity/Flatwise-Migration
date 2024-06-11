@@ -76,3 +76,8 @@ a:hover, a:focus, .sidebar nav[role="doc-toc"] ul > li > a.active:hover, .sideba
 .quarto-layout-cell figure, .quarto-layout-cell > p {
     margin: 0;
 }
+
+#quarto-appendix{
+    background-color: transparent!important;
+    border-top: 1px solid black!important;
+} 
