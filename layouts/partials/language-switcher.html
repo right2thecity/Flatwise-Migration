@@ -1,0 +1,7 @@
+<nav class="LangNav">
+{{ if .IsTranslated }}
+  {{ range .Translations }}
+    <a href="{{ .RelPermalink }}">{{ .Language.Lang }}</a>
+  {{ end }}
+{{ end }}
+</nav>
