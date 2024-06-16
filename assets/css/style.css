@@ -33,7 +33,6 @@
 	align-items: center;
 	display: flex;
 	hyphens: none;
-	margin-right: 4.5rem;
 }
 
 .menu__items {
@@ -600,7 +599,7 @@ span.language.active {
 }
 
 .header.has-LangNav {
-	grid-template-columns: auto 1fr auto;
+	grid-template-columns: 1fr auto auto;
 }
 
 @media (max-width:768px) {
