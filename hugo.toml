@@ -52,21 +52,7 @@ defaultContentLanguageInSubdir = true
     skype = ""
     address = "419 Creek St. Revere, MA 02151"
 
-[params.social]
-    twitter = "https://twitter.com/john"
-    facebook = "https://facebook.com/john"
-    github = "https://github.com/john"
-    gitlab = ""
-    codepen = "https://codepen.io/john"
-    instagram = "https://instagram.com/john"
-    pinterest = ""
-    youtube = ""
-    linkedin = ""
-    weibo = ""
-    mastodon = ""
-    tumblr = ""
-    flickr = ""
-    "500px" = ""
+
 
 [params.copy] # Copyright
     copy = "" # Empty for default content
