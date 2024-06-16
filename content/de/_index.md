@@ -1,11 +1,11 @@
 ---
-title: "Home"
+title: "Tenants Support Forum"
 description: ""
-images: ["undraw_freelancer_b0my.svg"]
+images: [""]
 draft: false
-menu: main
+menu: 
 weight: 1
 ---
 
-# Terrassa
-## Das Hugo Theme für dich. Oder dein Unternehmen.
+# Tenants Support Forum
+## Ein Zuhause für alle.
