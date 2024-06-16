@@ -1,11 +1,11 @@
 ---
-title: "Home"
+title: ""
 description: ""
-images: ["undraw_freelancer_b0my.svg"]
+images: [""]
 draft: false
-menu: main
+menu: 
 weight: 1
 ---
 
-# Terrassa
-## The Hugo theme for you. Or for your company.
+# Tenants Support Forum
+## A home for everyone.
