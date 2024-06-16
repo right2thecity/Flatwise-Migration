@@ -6,12 +6,12 @@
     --subheader: 1.414rem;
 
     /* Colors */
-    --primary: #ffc107;
-    --primary-dark: #ffa000;
-    --primary-light: #ffecb3;
-    --primary-text: #212121;
+    --primary: rgb(255, 252, 82);
+    --primary-dark: #000000;
+    --primary-light: rgb(255, 252, 82);
+    --primary-text: #000000;
     --secondary-text: #333333;
-    --accent: #536dfe;
+    --accent: #811c62;
     --divider: #bdbdbd;
     --white: #fdfdfd;
 
@@ -20,6 +20,33 @@
     --md: 768px;
     --lg: 992px;
     --xl: 1200px;
+}
+
+
+/* nunito-sans-regular - latin */
+@font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: url('fonts/nunito-sans-v15-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  }
+/* lora-regular - latin */
+@font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 400;
+    src: url('fonts/lora-v35-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  }
+  
+  
+body {
+    font-family: 'Lora', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, .navbar span, .sidebar {
+    font-family: 'Nunito Sans', sans-serif;
 }
 
 a {
