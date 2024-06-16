@@ -5,7 +5,7 @@
 	display: grid;
 	grid-template-columns: repeat(2, 1fr);
 	grid-template-rows: 1fr;
-	position: fixed;
+	position: absolute;
 	top: 0;
 	width: 100%;
 	z-index: 999;
@@ -608,4 +608,10 @@ span.language.active {
   .header.has-LangNav .hamburger-menu .toggle {
     right: 1.75rem;
   }
+}
+
+/* Base styles */
+h2, h3, h4, h5, h6 {
+	margin-top: -20px; /* to leave some room when jumped to with jump links */
+	padding-top: 20px;
 }
