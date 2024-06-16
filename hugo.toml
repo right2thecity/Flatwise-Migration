@@ -2,7 +2,7 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 defaultContentLanguage = 'en'
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
 
 
 [params]
@@ -88,7 +88,7 @@ defaultContentLanguageInSubdir = true
         title = "Tenants Support Forum"
         languageName = "en"
         weight = 1
-        contentDir = "content/en"
+        contentDir = "content"
       [languages.de]
         languageName = "de"
         weight = 2
