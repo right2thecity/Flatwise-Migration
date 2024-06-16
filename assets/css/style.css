@@ -39,6 +39,9 @@
 	display: flex;
 	justify-content: space-evenly;
 	width: 100%;
+	list-style: none;
+	margin: 0;
+	padding: 0;
 }
 
 .menu__items__item {
