@@ -109,7 +109,7 @@ defaultContentLanguageInSubdir = true
         contentDir = "content/de"
         languageCode = "de"
         languageDirection = "ltr"
-        title = "Das ist der deutsche Titel"
+        title = "Tenants Support Forum"
         description = "Das ist die deutsche Beschreibung"
         [languages.de.params]
           [languages.de.params.form] # Translate contact form fields
