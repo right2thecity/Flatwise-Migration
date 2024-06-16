@@ -71,3 +71,11 @@ pre {
 textarea {
     resize: none;
 }
+
+ul {
+    list-style-type: '– ';
+}
+
+main li {
+    padding-left: 1em;
+}
