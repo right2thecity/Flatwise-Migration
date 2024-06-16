@@ -15,8 +15,8 @@ defaultContentLanguageInSubdir = true
 
 [params.cta] # Call To Action
     show = true
-    cta = "Contact"
-    link = "contact" # Relative URL
+    cta = "What is this all about?"
+    link = "#giving-flat-seekers-the-facts-connecting-people-to-each-other" # Relative URL
 
 [params.separator] # Separators between sections on the home page
     show = false
@@ -99,7 +99,7 @@ defaultContentLanguageInSubdir = true
         disabled = false
         languageCode = "en"
         languageDirection = "ltr"
-        title = "English title"
+        title = "Tenants Support Forum"
         languageName = "en"
         weight = 1
         contentDir = "content/en"
