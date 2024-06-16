@@ -88,7 +88,7 @@ defaultContentLanguageInSubdir = false
         title = "Tenants Support Forum"
         languageName = "en"
         weight = 1
-        contentDir = "content"
+        contentDir = "content/en"
       [languages.de]
         languageName = "de"
         weight = 2
