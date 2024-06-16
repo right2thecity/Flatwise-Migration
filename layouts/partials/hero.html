@@ -1,4 +1,4 @@
-<main class="hero" {{ if $.Params.images }}
+<section class="hero" {{ if $.Params.images }}
     style="background-image: url('{{ $.Site.BaseURL }}images/{{ print (index $.Params.images 0) }}');" {{ end }}>
     <div class="hero__caption" {{ if $.Site.Params.hero.textColor }} style="color: {{ $.Site.Params.hero.textColor }};"
         {{ end }}>
@@ -7,4 +7,4 @@
         {{ partial "cta-btn.html" . }}
         {{ end }}
     </div>
-</main>
+</section>
