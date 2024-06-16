@@ -7,5 +7,4 @@ menu:
 weight: 1
 ---
 
-# Tenants Support Forum
-## Ein Zuhause für alle.
+# Ein Zuhause für alle.
