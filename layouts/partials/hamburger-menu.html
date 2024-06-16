@@ -1,18 +1,12 @@
-<nav class="hamburger-menu" aria-label="mobile-menu">
-    <div class="toggle">
-        <input type="checkbox" class="hamburger__toggle" id="hamburgerToggle" name="hamburger toggle" aria-label="Hamburguer menu">
-        <label class="hamburger__toggle__icon" for="hamburgerToggle">
-            Menu
-        </label>
-
-        <ul class="hamburger__items" aria-label="mobile-menu">
+<nav id="navigation" class="hamburger-menu">
+    <button id="menubutton" aria-label="Main Navigation" aria-expanded="false">Menu</button>
+        <ul id="primary-menu" class="hamburger__items" hidden>
             {{ range .Site.Menus.main }}
             <li class="hamburger__items__item" aria-label="{{ .Name }}">
-                <a href="{{ .URL }}" class="hamburger__items__item__link" alt="{{ .Name }}" role="menuitem">
+                <a href="{{ .URL }}" class="hamburger__items__item__link">
                     {{ .Name }}
                 </a>
             </li>
             {{ end }}
         </ul>
-    </div>
 </nav>
