@@ -47,10 +47,10 @@ defaultContentLanguageInSubdir = true
     dateFormat = "Monday, Jan, 2006"
 
 [params.contact] # Contact info
-    email = "example@gmail.com"
-    phone = "xxx xxx xxx xxxxx"
+    email = ""
+    phone = ""
     skype = ""
-    address = "419 Creek St. Revere, MA 02151"
+    address = ""
 
 
 
