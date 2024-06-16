@@ -60,6 +60,7 @@
         {{ else }}
         <p>© {{ now.Format "2006" }} - {{ $.Site.Title }}</p>
         {{ end }}
+        <a href="{{ $.Site.BaseURL }}/impressum/">Impressum</a>
     </div>
 
     {{ partial "scripts.html" . }}
