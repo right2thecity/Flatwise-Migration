@@ -21,9 +21,6 @@ defaultContentLanguageInSubdir = false
 [params.separator] # Separators between sections on the home page
     show = false
 
-[params.fa] # Font Awesome options
-    version = "5.7.2"
-    integrity = "sha384-0pzryjIRos8mFBWMzSSZApWtPl/5++eIfzYmTgBBmXYdhvxPc+XcFEk+zJwDgWbP"
 
 [params.form] # Contact form
     netlify = true
