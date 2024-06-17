@@ -14,7 +14,7 @@ defaultContentLanguageInSubdir = false
     textColor = "" # Empty for default color
 
 [params.cta] # Call To Action
-    show = true
+    show = false
     cta = "What is this all about?"
     link = "#giving-flat-seekers-the-facts-connecting-people-to-each-other" # Relative URL
 
