@@ -4,8 +4,6 @@
 	display: grid;
 	grid-template-columns: repeat(2, 1fr);
 	grid-template-rows: 1fr;
-	position: absolute;
-	top: 0;
 	width: 100%;
 	z-index: 999;
 }
@@ -15,7 +13,7 @@
 	display: flex;
 	font-size: 1.1rem;
 	justify-content: flex-start;
-	margin: 1rem 4.5rem;
+	margin: 1rem 2rem;
 }
 
 .header__title__link {
@@ -100,7 +98,7 @@
 .toggle {
 	align-self: center;
 	position: absolute;
-	right: 4.5rem;
+	right: 2rem;
 	margin-right: -0.5rem;
 }
 
@@ -179,9 +177,9 @@
 	background-repeat: no-repeat;
 	background-size: contain;
 	display: flex;
-	height: 90vh;
 	justify-content: flex-start;
 	width: 100%;
+	font-family: 'Nunito Sans', sans-serif;
 }
 
 .hero__caption {
@@ -190,21 +188,24 @@
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
-	margin-left: 4.5rem;
+	margin-left: 2rem;
 }
 
 .hero__caption > h1 {
 	font-size: var(--title);
+	margin-top: 4rem;
 }
 
 .hero__caption > h2 {
 	font-size: var(--subheader);
-	margin-top: 0.45rem;
+	margin-top: 0;
+	margin-bottom: 3rem;
+	padding-top: 0;
 }
 
 /* CTA */
 .cta__btn {
-	margin-top: 4.5rem;
+	margin-top: 2rem;
 }
 
 /* SECTION */
@@ -623,7 +624,7 @@
   display: flex;
   justify-content: flex-end;
   align-items: center;
-  margin: 1rem 4.5rem 1rem 1rem;
+  margin: 1rem 2rem 1rem 1rem;
   
 }
 
@@ -656,4 +657,12 @@
 h2, h3, h4, h5, h6 {
 	margin-top: -20px; /* to leave some room when jumped to with jump links */
 	padding-top: 20px;
+}
+
+/* Footnotes */
+#footnotes {
+	margin-bottom: 0;
+	margin-top: 4rem;
+	padding-top: 1rem;
+	border-top: 1px solid var(--primary-dark);
 }
