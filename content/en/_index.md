@@ -8,7 +8,7 @@ weight: 1
 ---
 
 # A home for everyone.
-## Giving flat-seekers the facts. Connecting people to each other.
+## Giving flat-seekers the facts. {{< new-line >}} Connecting people to each other.
 
 Looking for a flat to rent in Berlin? Wanting to understand more about your rights as a tenant? 1)
 
