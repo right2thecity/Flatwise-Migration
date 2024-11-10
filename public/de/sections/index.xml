@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sections on Tenants Support Forum</title>
+    <link>http://localhost:1313/de/sections/</link>
+    <description>Recent content in Sections on Tenants Support Forum</description>
+    <generator>Hugo</generator>
+    <language>de</language>
+    <atom:link href="http://localhost:1313/de/sections/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/de/sections/home-content-de/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/de/sections/home-content-de/</guid>
+      <description>Gibt Wohnungssuchenden die Fakten. Vernetzt Mieter*innen miteinander. Das Tenants Support Forum ist eine Berliner Initiative, die der Meinung ist, dass allen ein sicheres, bezahlbares Zuhause zusteht. Wir wollen die Barrieren verringern, mit denen Menschen bei der Wohnungssuche konfrontiert sind, und unterstützen uns dabei gegenseitig.</description>
+    </item>
+  </channel>
+</rss>
