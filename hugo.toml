@@ -93,16 +93,35 @@ defaultContentLanguageInSubdir = false
         languageCode = "de"
         languageDirection = "ltr"
         title = "Tenants Support Forum"
-        description = "Das ist die deutsche Beschreibung"
-        [languages.de.params]
-          [languages.de.params.form] # Translate contact form fields
-            inputNameLabel = "Name"
-            inputNamePlaceholder = "Dein Name"
-            inputEmailLabel = "E-mail"
-            inputEmailPlaceholder = "Deine E-Mail-Adresse"
-            inputMsgLabel = "Schreib etwas"
-            inputSubmitValue = "Abschicken"
-            [languages.de.params.cta] # Translate Call To Action
-                show = true
-                cta = "Kontakt"
-                link = "de/kontakt/" # Relative URL
+      [languages.fr]
+        languageName = "fr"
+        weight = 3
+        contentDir = "content/fr"
+        languageCode = "fr"
+        languageDirection = "ltr"
+        title = "Tenants Support Forum"
+      [languages.fa]
+        languageName = "fa"
+        weight = 4
+        contentDir = "content/fa"
+        languageCode = "fa"
+        languageDirection = "rtl"
+        title = "Tenants Support Forum"
+      [languages.ro]
+        languageName = "ro"
+        weight = 5
+        contentDir = "content/ro"
+        languageCode = "ro"
+        languageDirection = "ltr"
+        title = "Tenants Support Forum"
+      [languages.es]
+        languageName = "es"
+        weight = 6
+        contentDir = "content/es"
+        languageCode = "es"
+        languageDirection = "ltr"
+        title = "Tenants Support Forum"
+
+
+[params.social]
+    instagram = "https://www.instagram.com/flatwiseberlin/"

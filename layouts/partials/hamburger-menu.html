@@ -1,5 +1,5 @@
 <nav id="navigation" class="hamburger-menu">
-    <button id="menubutton" aria-label="Main Navigation" aria-expanded="false">Menu</button>
+    <button id="menubutton" class="hamburger__toggle" aria-label="Main Navigation" aria-expanded="false">Menu</button>
         <ul id="primary-menu" class="hamburger__items" hidden>
             {{ range .Site.Menus.main }}
             <li class="hamburger__items__item" aria-label="{{ .Name }}">

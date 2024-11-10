@@ -3,8 +3,5 @@
     <div class="hero__caption" {{ if $.Site.Params.hero.textColor }} style="color: {{ $.Site.Params.hero.textColor }};"
         {{ end }}>
         {{ .Content }}
-        {{ if $.Site.Params.cta.show }}
-        {{ partial "cta-btn.html" . }}
-        {{ end }}
     </div>
 </section>

@@ -34,6 +34,19 @@
 		align-items: flex-end;
 		padding-right: 4.5rem;
 	}
+	.menu {
+		display: none;
+		visibility: hidden;
+	}
+
+	.hamburger-menu {
+		display: grid;
+		visibility: visible;
+	}
+
+	.hamburger__items__item {
+		margin-right: 1.75rem;
+	}
 }
 
 @media only screen and (max-width: 992px) {
@@ -59,19 +72,7 @@
 		font-size: 1rem;
 	}
 
-	.menu {
-		display: none;
-		visibility: hidden;
-	}
-
-	.hamburger-menu {
-		display: grid;
-		visibility: visible;
-	}
-
-	.hamburger__items__item {
-		margin-right: 1.75rem;
-	}
+	
 
 	.section {
 		margin: 2.75rem 9%;

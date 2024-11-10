@@ -1,7 +1,10 @@
 <nav class="LangNav">
+  <button class="dropdown-toggle" aria-expanded="false" aria-label="Open language menu">{{ .Site.Language.Lang }}</button>
 {{ if .IsTranslated }}
+  <div class="dropdown-content">
   {{ range .Translations }}
     <a href="{{ .RelPermalink }}">{{ .Language.Lang }}</a>
   {{ end }}
+</div>
 {{ end }}
 </nav>
