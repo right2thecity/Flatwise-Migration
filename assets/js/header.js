@@ -17,6 +17,7 @@ function openMenu() {
 function closeMenu() {
     menu.setAttribute('hidden', true);
     menuBtn.setAttribute('aria-expanded', false);
+}
 
 window.addEventListener('click', function(e) {
             if (menu.contains(e.target) || menuBtn.contains(e.target)) {
