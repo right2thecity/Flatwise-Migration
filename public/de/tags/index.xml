@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Tenants Support Forum</title>
+    <link>http://localhost:1313/de/tags/</link>
+    <description>Recent content in Tags on Tenants Support Forum</description>
+    <generator>Hugo</generator>
+    <language>de</language>
+    <lastBuildDate>Wed, 19 Dec 2018 22:32:19 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/de/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cooking</title>
+      <link>http://localhost:1313/de/tags/cooking/</link>
+      <pubDate>Wed, 19 Dec 2018 22:21:42 +0100</pubDate>
+      <guid>http://localhost:1313/de/tags/cooking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Health</title>
+      <link>http://localhost:1313/de/tags/health/</link>
+      <pubDate>Wed, 19 Dec 2018 22:21:42 +0100</pubDate>
+      <guid>http://localhost:1313/de/tags/health/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Free</title>
+      <link>http://localhost:1313/de/tags/free/</link>
+      <pubDate>Wed, 19 Dec 2018 22:21:42 +0100</pubDate>
+      <guid>http://localhost:1313/de/tags/free/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Music</title>
+      <link>http://localhost:1313/de/tags/music/</link>
+      <pubDate>Wed, 19 Dec 2018 22:21:42 +0100</pubDate>
+      <guid>http://localhost:1313/de/tags/music/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Songs</title>
+      <link>http://localhost:1313/de/tags/songs/</link>
+      <pubDate>Wed, 19 Dec 2018 22:21:42 +0100</pubDate>
+      <guid>http://localhost:1313/de/tags/songs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Architecture</title>
+      <link>http://localhost:1313/de/tags/architecture/</link>
+      <pubDate>Wed, 19 Dec 2018 22:21:42 +0100</pubDate>
+      <guid>http://localhost:1313/de/tags/architecture/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Medicine</title>
+      <link>http://localhost:1313/de/tags/medicine/</link>
+      <pubDate>Wed, 19 Dec 2018 22:21:42 +0100</pubDate>
+      <guid>http://localhost:1313/de/tags/medicine/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
