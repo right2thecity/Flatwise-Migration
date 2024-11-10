@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tenants Support Forum</title>
+    <link>http://localhost:1313/es/</link>
+    <description>Recent content on Tenants Support Forum</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <atom:link href="http://localhost:1313/es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Start here</title>
+      <link>http://localhost:1313/es/start-here/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/start-here/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Monthly Forum</title>
+      <link>http://localhost:1313/es/forum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/forum/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Guide to Flat-Hunting in Berlin</title>
+      <link>http://localhost:1313/es/guide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/guide/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

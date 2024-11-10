@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Glossary on Tenants Support Forum</title>
+    <link>http://localhost:1313/glossary/</link>
+    <description>Recent content in Glossary on Tenants Support Forum</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 17 Dec 2018 22:21:42 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/glossary/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is an unfurnished apartment? (unmöbliert)</title>
+      <link>http://localhost:1313/glossary/unfurnished-apartment/</link>
+      <pubDate>Wed, 19 Dec 2018 22:21:42 +0100</pubDate>
+      <guid>http://localhost:1313/glossary/unfurnished-apartment/</guid>
+      <description>There is no furniture in the apartment and it will be empty. You might find a stove and a sink but that is all.&#xA;You will have to get your own:&#xA;Bed Kitchen - Probably the most expensive part Internet connection - takes a few weeks. Internet providers are not quick to setup connections, or anything really. Switch your electricity provider - Electricity is available by default, although that can get expensive Furniture - tables, chairs, lights, etc.</description>
+    </item>
+  </channel>
+</rss>

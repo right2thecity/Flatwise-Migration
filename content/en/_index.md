@@ -10,7 +10,7 @@ weight: 1
 # A home for everyone.
 ## Giving flat-seekers the facts. {{< new-line >}} Connecting people to each other.
 
-Looking for a flat to rent in Berlin? Wanting to understand more about your rights as a tenant? 1)
+Looking for a flat to rent in Berlin? Wanting to understand more about your rights as a tenant?
 
 It includes:
 
@@ -20,8 +20,4 @@ It includes:
 - explanations of your tenancy rights
 - a record of housing scams
 - lots of really useful links
-
-## Footnotes
-
-1. Spoiler alert: you have lots! The key is knowing how and when to use them ↩︎
 

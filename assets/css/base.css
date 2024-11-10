@@ -3,7 +3,7 @@
     --title: 3.998rem;
     --subtitle: 2.827rem;
     --header: 1.999rem;
-    --subheader: 1.414rem;
+    --subheader: 1.8rem;
 
     /* Colors */
     --primary: #7000ff;
@@ -11,9 +11,9 @@
     --primary-light: #7000ff;
     --primary-text: #000000;
     --secondary-text: #333333;
-    --accent: #dOdOdO;
+    --accent: #d0d0d0;
     --divider: #bdbdbd;
-    --white: #ебе6е6;
+    --white:#e6e6e6;
 
     /* Breakpoints */
     --sm: 576px;
@@ -23,13 +23,13 @@
 }
 
 
-/* inter-700 - latin */
+/* archivo 700 - latin */
 @font-face {
     font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-    font-family: 'Inter Bold';
+    font-family: 'Archivo Bold';
     font-style: normal;
     font-weight: 700;
-    src: url('/fonts/inter-v18-latin-700.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+    src: url('/fonts/archivo-v19-latin-700.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
   }
 /* poppins-regular - latin */
 @font-face {
@@ -37,17 +37,33 @@
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 400;
-    src: url('../fonts/poppins-v21-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+    src: url('/fonts/poppins-v21-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
   }
   
+html {
+    font-size: 20px;
+    line-height: 1.2;
+}
   
 body {
     font-family: 'Poppins', sans-serif;
     background-color: var(--white);
+    letter-spacing: 0.25px;
 }
 
+body:focus, body:focus-visible, a:focus, a:focus-visible, button:focus, button:focus-visible {
+    outline-offset: -1px;
+    outline: 2px dashed blue;
+}
+
+
 h1, h2, h3, h4, h5, h6, header {
-    font-family: 'Inter Bold', sans-serif;
+    font-family: 'Archivo Bold', sans-serif;
+    letter-spacing: 1px;
+    line-height: 1.4;
+}
+
+h1 {
     color: var(--primary);
 }
 
@@ -57,10 +73,14 @@ main a {
     padding: 0 .25rem;
     margin: 0 -.25rem;
     transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 2px;
   }
 main a:hover {
     color: #fff;
     box-shadow: inset 1900px 0 0 0 var(--primary);
+    text-decoration: none;
   }
 
 body {
@@ -112,4 +132,8 @@ ul {
 
 main li {
     padding-left: 1em;
+}
+
+p {
+    margin-bottom: 1rem;
 }
