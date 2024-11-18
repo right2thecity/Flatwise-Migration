@@ -7,54 +7,5 @@
     <generator>Hugo</generator>
     <language>de</language>
     <atom:link href="http://localhost:1313/de/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Architecture</title>
-      <link>http://localhost:1313/de/tags/architecture/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/tags/architecture/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cooking</title>
-      <link>http://localhost:1313/de/tags/cooking/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/tags/cooking/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Free</title>
-      <link>http://localhost:1313/de/tags/free/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/tags/free/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Health</title>
-      <link>http://localhost:1313/de/tags/health/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/tags/health/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Medicine</title>
-      <link>http://localhost:1313/de/tags/medicine/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/tags/medicine/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Music</title>
-      <link>http://localhost:1313/de/tags/music/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/tags/music/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Songs</title>
-      <link>http://localhost:1313/de/tags/songs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/tags/songs/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>

@@ -42,6 +42,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/start-here/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fa"
                 href="http://localhost:1313/fa/start-here/"
                 />
@@ -64,6 +69,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/glossary/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fa"
                 href="http://localhost:1313/fa/glossary/"
                 />
@@ -83,6 +93,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/forum/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/forum/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -137,6 +152,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/guide/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/guide/"
                 />
     <xhtml:link
                 rel="alternate"
