@@ -1,7 +1,9 @@
 {{ define "main" }}
 <main class="content">
+	
 	{{ $paginator := .Paginate (where .Data.Pages.ByDate.Reverse "Type" "glossary") }}
 	<h1 class="post__title">{{ .Title }}</h1>
+	{{ .Content }}
 	{{ range $paginator.Pages }}
 	{{ .Render "card" }}
 	{{ end }}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kaution on Tenants Support</title>
+    <link>https://example.org/ro/tags/kaution/</link>
+    <description>Recent content in Kaution on Tenants Support</description>
+    <generator>Hugo</generator>
+    <language>ro</language>
+    <lastBuildDate>Sun, 17 Nov 2024 12:00:00 +0100</lastBuildDate>
+    <atom:link href="https://example.org/ro/tags/kaution/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ce este Kaution?</title>
+      <link>https://example.org/ro/glossary/ce-este-kaution/</link>
+      <pubDate>Sun, 17 Nov 2024 12:00:00 +0100</pubDate>
+      <guid>https://example.org/ro/glossary/ce-este-kaution/</guid>
+      <description>Kaution este garanția. Nu ar trebui să fie mai mare decât echivalentul a trei chirii la rece. Proprietarul/a ar trebui să o depoziteze într-un cont comun sau într-un cont separat, și să îți trimită dovada că a făcut acest lucru. Ai dreptul să primești orice dobândă se adună în acest cont împreună cu restul garanției atunci când se termină contractul de chirie. Din păcate, proprietarii au la dispoziție până la 6 luni pentru a-ți returna banii!</description>
+    </item>
+  </channel>
+</rss>
