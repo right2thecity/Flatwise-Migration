@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mietspiegel on Tenants Support</title>
-    <link>https://example.org/es/tags/mietspiegel/</link>
+    <link>https://right2thecity.github.io/Flatwise-Migration/es/tags/mietspiegel/</link>
     <description>Recent content in Mietspiegel on Tenants Support</description>
     <generator>Hugo</generator>
     <language>es</language>
     <lastBuildDate>Sun, 17 Nov 2024 12:00:00 +0100</lastBuildDate>
-    <atom:link href="https://example.org/es/tags/mietspiegel/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://right2thecity.github.io/Flatwise-Migration/es/tags/mietspiegel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>¿Qué es el Mietspiegel (espejo de alquiler)?</title>
-      <link>https://example.org/es/glossary/que-es-mietspiegel/</link>
+      <link>https://right2thecity.github.io/Flatwise-Migration/es/glossary/que-es-mietspiegel/</link>
       <pubDate>Sun, 17 Nov 2024 12:00:00 +0100</pubDate>
-      <guid>https://example.org/es/glossary/que-es-mietspiegel/</guid>
+      <guid>https://right2thecity.github.io/Flatwise-Migration/es/glossary/que-es-mietspiegel/</guid>
       <description>Es el alquiler medio para tu zona y tipo de vivienda. El arrendador no debe cobrarle más de un 10% por encima de este alquiler medio (aunque hay excepciones, por supuesto, lo que en la práctica hace que esto sea bastante difícil). Puedes comprobar cuál debe ser el alquiler para tu tipo de vivienda aquí: [title] (https://mietspiegeltabelle.de/mietspiegel-berlin/)</description>
     </item>
   </channel>

@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Tenants Support</title>
-    <link>https://example.org/de/tags/</link>
+    <link>https://right2thecity.github.io/Flatwise-Migration/de/tags/</link>
     <description>Recent content in Tags on Tenants Support</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <atom:link href="https://example.org/de/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://right2thecity.github.io/Flatwise-Migration/de/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

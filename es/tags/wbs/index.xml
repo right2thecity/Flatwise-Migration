@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>WBS on Tenants Support</title>
-    <link>https://example.org/es/tags/wbs/</link>
+    <link>https://right2thecity.github.io/Flatwise-Migration/es/tags/wbs/</link>
     <description>Recent content in WBS on Tenants Support</description>
     <generator>Hugo</generator>
     <language>es</language>
     <lastBuildDate>Sun, 17 Nov 2024 12:00:00 +0100</lastBuildDate>
-    <atom:link href="https://example.org/es/tags/wbs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://right2thecity.github.io/Flatwise-Migration/es/tags/wbs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>¿Qué es el WBS (Wohnberechtigungsschein)?</title>
-      <link>https://example.org/es/glossary/que-es-wbs/</link>
+      <link>https://right2thecity.github.io/Flatwise-Migration/es/glossary/que-es-wbs/</link>
       <pubDate>Sun, 17 Nov 2024 12:00:00 +0100</pubDate>
-      <guid>https://example.org/es/glossary/que-es-wbs/</guid>
+      <guid>https://right2thecity.github.io/Flatwise-Migration/es/glossary/que-es-wbs/</guid>
       <description>El Wohnberechtigungsschein es la prueba oficial en Alemania de que puedes mudarte a un piso financiado con fondos públicos. El WBS es el documento con el que puedes demostrar que tienes derecho a una vivienda de alquiler subvencionada con WBS.&#xA;La base jurídica del Wohnberechtigungsschein es el § 5 Wohnungsbindungsgesetz (WoBindG) en relación con el § 27 Abs. 3 a 5 de la Wohnraumförderungsgesetz (WoFG).&#xA;El Wohnberechtigungsschein tiene por objeto proporcionar viviendas asequibles a los hogares con bajos ingresos.</description>
     </item>
   </channel>

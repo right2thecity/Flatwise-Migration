@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Germany on Tenants Support</title>
-    <link>https://example.org/tags/germany/</link>
+    <link>https://right2thecity.github.io/Flatwise-Migration/tags/germany/</link>
     <description>Recent content in Germany on Tenants Support</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 17 Nov 2024 12:00:00 +0100</lastBuildDate>
-    <atom:link href="https://example.org/tags/germany/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://right2thecity.github.io/Flatwise-Migration/tags/germany/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What are the Mieterschutzbund and Mieterverein?</title>
-      <link>https://example.org/glossary/what-are-the-mieterschutzbund-and-mieterverein/</link>
+      <link>https://right2thecity.github.io/Flatwise-Migration/glossary/what-are-the-mieterschutzbund-and-mieterverein/</link>
       <pubDate>Sun, 17 Nov 2024 12:00:00 +0100</pubDate>
-      <guid>https://example.org/glossary/what-are-the-mieterschutzbund-and-mieterverein/</guid>
+      <guid>https://right2thecity.github.io/Flatwise-Migration/glossary/what-are-the-mieterschutzbund-and-mieterverein/</guid>
       <description>These are renters unions that you can join if you have a rental contract (Mietvertrag). You have to pay a small fee, but after that, you can call them for free advice and they will help you in rent disputes. We would really recommend joining one if you can.</description>
     </item>
     <item>
       <title>What is Anmeldung?</title>
-      <link>https://example.org/glossary/what-is-anmeldung/</link>
+      <link>https://right2thecity.github.io/Flatwise-Migration/glossary/what-is-anmeldung/</link>
       <pubDate>Sun, 17 Nov 2024 12:00:00 +0100</pubDate>
-      <guid>https://example.org/glossary/what-is-anmeldung/</guid>
+      <guid>https://right2thecity.github.io/Flatwise-Migration/glossary/what-is-anmeldung/</guid>
       <description>Anmeldung is your city registration. It enables you to get a tax ID, library card, and access other services. You need to make an appointment for this at the Bürgeramt ideally within a month of arriving in Germany. You need to bring your rental contract as proof of address to your Anmeldung appointment.&#xA;If your subletter/main tenant says &amp;ldquo;no Anmeldung possible,&amp;rdquo; that is a sign that the sublet is illegal (not cleared by the landlord).</description>
     </item>
     <item>
       <title>What is the difference between unbefristet / befristet Mietverträge?</title>
-      <link>https://example.org/glossary/what-is-the-difference-between-unbefristet-befristet-mietvertraege/</link>
+      <link>https://right2thecity.github.io/Flatwise-Migration/glossary/what-is-the-difference-between-unbefristet-befristet-mietvertraege/</link>
       <pubDate>Sun, 17 Nov 2024 12:00:00 +0100</pubDate>
-      <guid>https://example.org/glossary/what-is-the-difference-between-unbefristet-befristet-mietvertraege/</guid>
+      <guid>https://right2thecity.github.io/Flatwise-Migration/glossary/what-is-the-difference-between-unbefristet-befristet-mietvertraege/</guid>
       <description>An unbefristet Mietvertrag is an unlimited rental contract. Normally these come with a minimum rental period, often 2 years. This means that if you want to move out before the end of these 2 years, you need to give 3 months notice and find a suitable tenant to replace you. Watch out though, because if you are renting from a private landlord, they are able to take the property back if they or a family member want to move into it.</description>
     </item>
     <item>
       <title>What is the Abschlagszahlung?</title>
-      <link>https://example.org/glossary/what-is-the-abschlagszahlung/</link>
+      <link>https://right2thecity.github.io/Flatwise-Migration/glossary/what-is-the-abschlagszahlung/</link>
       <pubDate>Sun, 17 Nov 2024 00:00:00 +0100</pubDate>
-      <guid>https://example.org/glossary/what-is-the-abschlagszahlung/</guid>
+      <guid>https://right2thecity.github.io/Flatwise-Migration/glossary/what-is-the-abschlagszahlung/</guid>
       <description>This is a fee for the previous tenant’s furniture and fitting, that they might ask you to pay upfront if you want to rent their flat. Sometimes these can be excessively high and are essentially bribes. Currently there is not much regulation governing this issue, and furnished flats are often harder to apply the Mietpreisbremse to.</description>
     </item>
   </channel>

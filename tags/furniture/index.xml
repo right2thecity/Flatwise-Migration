@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Furniture on Tenants Support</title>
-    <link>https://example.org/tags/furniture/</link>
+    <link>https://right2thecity.github.io/Flatwise-Migration/tags/furniture/</link>
     <description>Recent content in Furniture on Tenants Support</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 17 Nov 2024 00:00:00 +0100</lastBuildDate>
-    <atom:link href="https://example.org/tags/furniture/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://right2thecity.github.io/Flatwise-Migration/tags/furniture/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What is the Abschlagszahlung?</title>
-      <link>https://example.org/glossary/what-is-the-abschlagszahlung/</link>
+      <link>https://right2thecity.github.io/Flatwise-Migration/glossary/what-is-the-abschlagszahlung/</link>
       <pubDate>Sun, 17 Nov 2024 00:00:00 +0100</pubDate>
-      <guid>https://example.org/glossary/what-is-the-abschlagszahlung/</guid>
+      <guid>https://right2thecity.github.io/Flatwise-Migration/glossary/what-is-the-abschlagszahlung/</guid>
       <description>This is a fee for the previous tenant’s furniture and fitting, that they might ask you to pay upfront if you want to rent their flat. Sometimes these can be excessively high and are essentially bribes. Currently there is not much regulation governing this issue, and furnished flats are often harder to apply the Mietpreisbremse to.</description>
     </item>
   </channel>
