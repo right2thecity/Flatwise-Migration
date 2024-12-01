@@ -82,7 +82,7 @@ defaultContentLanguageInSubdir = false
         disabled = false
         languageCode = "en"
         languageDirection = "ltr"
-        title = "Tenants Support Forum"
+        title = "Tenants Support"
         languageName = "en"
         weight = 1
         contentDir = "content/en"
@@ -92,35 +92,21 @@ defaultContentLanguageInSubdir = false
         contentDir = "content/de"
         languageCode = "de"
         languageDirection = "ltr"
-        title = "Tenants Support Forum"
-      [languages.fr]
-        languageName = "fr"
-        weight = 3
-        contentDir = "content/fr"
-        languageCode = "fr"
-        languageDirection = "ltr"
-        title = "Tenants Support Forum"
-      [languages.fa]
-        languageName = "fa"
-        weight = 4
-        contentDir = "content/fa"
-        languageCode = "fa"
-        languageDirection = "rtl"
-        title = "Tenants Support Forum"
+        title = "Tenants Support"
       [languages.ro]
         languageName = "ro"
         weight = 5
         contentDir = "content/ro"
         languageCode = "ro"
         languageDirection = "ltr"
-        title = "Tenants Support Forum"
+        title = "Tenants Support"
       [languages.es]
         languageName = "es"
         weight = 6
         contentDir = "content/es"
         languageCode = "es"
         languageDirection = "ltr"
-        title = "Tenants Support Forum"
+        title = "Tenants Support"
 
 
 [params.social]

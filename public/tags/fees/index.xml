@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fees on Tenants Support Forum</title>
-    <link>http://localhost:1313/tags/fees/</link>
-    <description>Recent content in Fees on Tenants Support Forum</description>
+    <title>Fees on Tenants Support</title>
+    <link>https://example.org/tags/fees/</link>
+    <description>Recent content in Fees on Tenants Support</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 17 Nov 2024 00:00:00 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/fees/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/tags/fees/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What is the Abschlagszahlung?</title>
-      <link>http://localhost:1313/glossary/what-is-the-abschlagszahlung/</link>
+      <link>https://example.org/glossary/what-is-the-abschlagszahlung/</link>
       <pubDate>Sun, 17 Nov 2024 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/glossary/what-is-the-abschlagszahlung/</guid>
+      <guid>https://example.org/glossary/what-is-the-abschlagszahlung/</guid>
       <description>This is a fee for the previous tenant’s furniture and fitting, that they might ask you to pay upfront if you want to rent their flat. Sometimes these can be excessively high and are essentially bribes. Currently there is not much regulation governing this issue, and furnished flats are often harder to apply the Mietpreisbremse to.</description>
     </item>
   </channel>

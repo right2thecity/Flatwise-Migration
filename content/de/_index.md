@@ -7,6 +7,17 @@ menu:
 weight: 1
 ---
 
-# Ein Zuhause für alle.
-## Gibt Wohnungssuchenden die Fakten. Vernetzt Mieter*innen miteinander.
-Das Tenants Support Forum ist eine Berliner Initiative, die der Meinung ist, dass allen ein sicheres, bezahlbares Zuhause zusteht. Wir wollen die Barrieren verringern, mit denen Menschen bei der Wohnungssuche konfrontiert sind, und unterstützen uns dabei gegenseitig.
+# Ein Zuhause für alle
+## Fakten für die Wohnungssuche.{{< new-line >}}Verbindet Mieter*innen miteinander.
+
+Suchst du eine Wohnung in Berlin? Willst du deine Rechte als Mieter*in besser verstehen? Versuchst du, Fakten von Fiktion zu unterscheiden?
+
+Dann bist du hier richtig.
+
+Hier findest du:
+
+- Ein Glossar in mehreren Sprachen, um die ganzen komplizierten deutschen Wörter rund um Miete zu verstehen
+- Einen detaillierten Leitfaden zur Wohnungssuche
+- Informationen zu deinen Rechten als Mieter*in
+- Tipps gegen Scams 
+- Viele hilfreiche Links
