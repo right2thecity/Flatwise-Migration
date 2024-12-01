@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anmeldung on Tenants Support</title>
+    <link>https://example.org/ro/tags/anmeldung/</link>
+    <description>Recent content in Anmeldung on Tenants Support</description>
+    <generator>Hugo</generator>
+    <language>ro</language>
+    <lastBuildDate>Sun, 17 Nov 2024 12:00:00 +0100</lastBuildDate>
+    <atom:link href="https://example.org/ro/tags/anmeldung/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ce este Anmeldung?</title>
+      <link>https://example.org/ro/glossary/ce-este-anmeldung/</link>
+      <pubDate>Sun, 17 Nov 2024 12:00:00 +0100</pubDate>
+      <guid>https://example.org/ro/glossary/ce-este-anmeldung/</guid>
+      <description>Anmeldung este înregistrarea în oraș. Îți permite să primești un cod de identificare fiscală, un card pentru bibliotecă și acces la alte servicii. Pentru înregistrare, trebuie să îți faci o programare la Bürgeramt, ideal în prima lună după ce ai ajuns în Berlin. La programare trebuie să aduci contractul de închiriere pentru a-ți dovedi adresa.&#xA;Dacă persoana de la care închiriezi sau principalul/a chiriaș/ă spune că Anmeldung nu este posibil, atunci acesta este un semn că subînchirierea acelui apartament este ilegală (nu este aprobată de proprietar/ă).</description>
+    </item>
+  </channel>
+</rss>
