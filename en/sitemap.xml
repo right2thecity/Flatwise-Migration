@@ -2,26 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+<<<<<<< HEAD
     <loc>https://right2thecity.github.io/Flatwise-Migration/</loc>
+=======
+    <loc>https://tenantssupportforum.de/</loc>
+>>>>>>> 7e605bb (only deploy files in this folder)
     <lastmod>2024-11-17T12:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
+<<<<<<< HEAD
                 href="https://right2thecity.github.io/Flatwise-Migration/de/"
+=======
+                href="https://tenantssupportforum.de/de/"
+>>>>>>> 7e605bb (only deploy files in this folder)
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ro"
+<<<<<<< HEAD
                 href="https://right2thecity.github.io/Flatwise-Migration/ro/"
+=======
+                href="https://tenantssupportforum.de/ro/"
+>>>>>>> 7e605bb (only deploy files in this folder)
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+<<<<<<< HEAD
                 href="https://right2thecity.github.io/Flatwise-Migration/es/"
+=======
+                href="https://tenantssupportforum.de/es/"
+>>>>>>> 7e605bb (only deploy files in this folder)
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+<<<<<<< HEAD
                 href="https://right2thecity.github.io/Flatwise-Migration/"
                 />
   </url><url>
@@ -30,69 +47,134 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://right2thecity.github.io/Flatwise-Migration/de/erste-schritte/"
+=======
+                href="https://tenantssupportforum.de/"
+                />
+  </url><url>
+    <loc>https://tenantssupportforum.de/start-here/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://tenantssupportforum.de/de/erste-schritte/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ro"
+                href="https://tenantssupportforum.de/ro/incepe-aici/"
+>>>>>>> 7e605bb (only deploy files in this folder)
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+<<<<<<< HEAD
                 href="https://right2thecity.github.io/Flatwise-Migration/es/empieza-por-aqui/"
+=======
+                href="https://tenantssupportforum.de/es/empieza-por-aqui/"
+>>>>>>> 7e605bb (only deploy files in this folder)
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+<<<<<<< HEAD
                 href="https://right2thecity.github.io/Flatwise-Migration/start-here/"
                 />
   </url><url>
     <loc>https://right2thecity.github.io/Flatwise-Migration/glossary/</loc>
+=======
+                href="https://tenantssupportforum.de/start-here/"
+                />
+  </url><url>
+    <loc>https://tenantssupportforum.de/glossary/</loc>
+>>>>>>> 7e605bb (only deploy files in this folder)
     <lastmod>2024-11-17T12:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ro"
+<<<<<<< HEAD
                 href="https://right2thecity.github.io/Flatwise-Migration/ro/glossary/"
+=======
+                href="https://tenantssupportforum.de/ro/glossary/"
+>>>>>>> 7e605bb (only deploy files in this folder)
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+<<<<<<< HEAD
                 href="https://right2thecity.github.io/Flatwise-Migration/es/glossary/"
+=======
+                href="https://tenantssupportforum.de/es/glossary/"
+>>>>>>> 7e605bb (only deploy files in this folder)
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+<<<<<<< HEAD
                 href="https://right2thecity.github.io/Flatwise-Migration/glossary/"
                 />
   </url><url>
     <loc>https://right2thecity.github.io/Flatwise-Migration/tags/anmeldung/</loc>
+=======
+                href="https://tenantssupportforum.de/glossary/"
+                />
+  </url><url>
+    <loc>https://tenantssupportforum.de/tags/anmeldung/</loc>
+>>>>>>> 7e605bb (only deploy files in this folder)
     <lastmod>2024-11-17T12:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ro"
+<<<<<<< HEAD
                 href="https://right2thecity.github.io/Flatwise-Migration/ro/tags/anmeldung/"
+=======
+                href="https://tenantssupportforum.de/ro/tags/anmeldung/"
+>>>>>>> 7e605bb (only deploy files in this folder)
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+<<<<<<< HEAD
                 href="https://right2thecity.github.io/Flatwise-Migration/es/tags/anmeldung/"
+=======
+                href="https://tenantssupportforum.de/es/tags/anmeldung/"
+>>>>>>> 7e605bb (only deploy files in this folder)
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+<<<<<<< HEAD
                 href="https://right2thecity.github.io/Flatwise-Migration/tags/anmeldung/"
                 />
   </url><url>
     <loc>https://right2thecity.github.io/Flatwise-Migration/tags/befristet-mietvertrag/</loc>
+=======
+                href="https://tenantssupportforum.de/tags/anmeldung/"
+                />
+  </url><url>
+    <loc>https://tenantssupportforum.de/tags/befristet-mietvertrag/</loc>
+>>>>>>> 7e605bb (only deploy files in this folder)
     <lastmod>2024-11-17T12:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ro"
+<<<<<<< HEAD
                 href="https://right2thecity.github.io/Flatwise-Migration/ro/tags/befristet-mietvertrag/"
+=======
+                href="https://tenantssupportforum.de/ro/tags/befristet-mietvertrag/"
+>>>>>>> 7e605bb (only deploy files in this folder)
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+<<<<<<< HEAD
                 href="https://right2thecity.github.io/Flatwise-Migration/es/tags/befristet-mietvertrag/"
+=======
+                href="https://tenantssupportforum.de/es/tags/befristet-mietvertrag/"
+>>>>>>> 7e605bb (only deploy files in this folder)
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+<<<<<<< HEAD
                 href="https://right2thecity.github.io/Flatwise-Migration/tags/befristet-mietvertrag/"
                 />
   </url><url>
@@ -100,20 +182,38 @@
     <lastmod>2024-11-17T12:00:00+01:00</lastmod>
   </url><url>
     <loc>https://right2thecity.github.io/Flatwise-Migration/tags/germany/</loc>
+=======
+                href="https://tenantssupportforum.de/tags/befristet-mietvertrag/"
+                />
+  </url><url>
+    <loc>https://tenantssupportforum.de/tags/city-registration/</loc>
+    <lastmod>2024-11-17T12:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://tenantssupportforum.de/tags/germany/</loc>
+>>>>>>> 7e605bb (only deploy files in this folder)
     <lastmod>2024-11-17T12:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ro"
+<<<<<<< HEAD
                 href="https://right2thecity.github.io/Flatwise-Migration/ro/tags/germany/"
+=======
+                href="https://tenantssupportforum.de/ro/tags/germany/"
+>>>>>>> 7e605bb (only deploy files in this folder)
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+<<<<<<< HEAD
                 href="https://right2thecity.github.io/Flatwise-Migration/es/tags/germany/"
+=======
+                href="https://tenantssupportforum.de/es/tags/germany/"
+>>>>>>> 7e605bb (only deploy files in this folder)
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+<<<<<<< HEAD
                 href="https://right2thecity.github.io/Flatwise-Migration/tags/germany/"
                 />
   </url><url>
@@ -121,38 +221,71 @@
     <lastmod>2024-11-17T12:00:00+01:00</lastmod>
   </url><url>
     <loc>https://right2thecity.github.io/Flatwise-Migration/tags/mieterschutzbund/</loc>
+=======
+                href="https://tenantssupportforum.de/tags/germany/"
+                />
+  </url><url>
+    <loc>https://tenantssupportforum.de/tags/legal-tenancy/</loc>
+    <lastmod>2024-11-17T12:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://tenantssupportforum.de/tags/mieterschutzbund/</loc>
+>>>>>>> 7e605bb (only deploy files in this folder)
     <lastmod>2024-11-17T12:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ro"
+<<<<<<< HEAD
                 href="https://right2thecity.github.io/Flatwise-Migration/ro/tags/mieterschutzbund/"
+=======
+                href="https://tenantssupportforum.de/ro/tags/mieterschutzbund/"
+>>>>>>> 7e605bb (only deploy files in this folder)
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+<<<<<<< HEAD
                 href="https://right2thecity.github.io/Flatwise-Migration/es/tags/mieterschutzbund/"
+=======
+                href="https://tenantssupportforum.de/es/tags/mieterschutzbund/"
+>>>>>>> 7e605bb (only deploy files in this folder)
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+<<<<<<< HEAD
                 href="https://right2thecity.github.io/Flatwise-Migration/tags/mieterschutzbund/"
                 />
   </url><url>
     <loc>https://right2thecity.github.io/Flatwise-Migration/tags/mieterverein/</loc>
+=======
+                href="https://tenantssupportforum.de/tags/mieterschutzbund/"
+                />
+  </url><url>
+    <loc>https://tenantssupportforum.de/tags/mieterverein/</loc>
+>>>>>>> 7e605bb (only deploy files in this folder)
     <lastmod>2024-11-17T12:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ro"
+<<<<<<< HEAD
                 href="https://right2thecity.github.io/Flatwise-Migration/ro/tags/mieterverein/"
+=======
+                href="https://tenantssupportforum.de/ro/tags/mieterverein/"
+>>>>>>> 7e605bb (only deploy files in this folder)
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+<<<<<<< HEAD
                 href="https://right2thecity.github.io/Flatwise-Migration/es/tags/mieterverein/"
+=======
+                href="https://tenantssupportforum.de/es/tags/mieterverein/"
+>>>>>>> 7e605bb (only deploy files in this folder)
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+<<<<<<< HEAD
                 href="https://right2thecity.github.io/Flatwise-Migration/tags/mieterverein/"
                 />
   </url><url>
@@ -163,25 +296,50 @@
     <lastmod>2024-11-17T12:00:00+01:00</lastmod>
   </url><url>
     <loc>https://right2thecity.github.io/Flatwise-Migration/tags/</loc>
+=======
+                href="https://tenantssupportforum.de/tags/mieterverein/"
+                />
+  </url><url>
+    <loc>https://tenantssupportforum.de/tags/rental-contracts/</loc>
+    <lastmod>2024-11-17T12:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://tenantssupportforum.de/tags/renters-union/</loc>
+    <lastmod>2024-11-17T12:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://tenantssupportforum.de/tags/</loc>
+>>>>>>> 7e605bb (only deploy files in this folder)
     <lastmod>2024-11-17T12:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
+<<<<<<< HEAD
                 href="https://right2thecity.github.io/Flatwise-Migration/de/tags/"
+=======
+                href="https://tenantssupportforum.de/de/tags/"
+>>>>>>> 7e605bb (only deploy files in this folder)
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ro"
+<<<<<<< HEAD
                 href="https://right2thecity.github.io/Flatwise-Migration/ro/tags/"
+=======
+                href="https://tenantssupportforum.de/ro/tags/"
+>>>>>>> 7e605bb (only deploy files in this folder)
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+<<<<<<< HEAD
                 href="https://right2thecity.github.io/Flatwise-Migration/es/tags/"
+=======
+                href="https://tenantssupportforum.de/es/tags/"
+>>>>>>> 7e605bb (only deploy files in this folder)
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+<<<<<<< HEAD
                 href="https://right2thecity.github.io/Flatwise-Migration/tags/"
                 />
   </url><url>
@@ -189,20 +347,38 @@
     <lastmod>2024-11-17T12:00:00+01:00</lastmod>
   </url><url>
     <loc>https://right2thecity.github.io/Flatwise-Migration/tags/unbefristet-mietvertrag/</loc>
+=======
+                href="https://tenantssupportforum.de/tags/"
+                />
+  </url><url>
+    <loc>https://tenantssupportforum.de/tags/tenant-rights/</loc>
+    <lastmod>2024-11-17T12:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://tenantssupportforum.de/tags/unbefristet-mietvertrag/</loc>
+>>>>>>> 7e605bb (only deploy files in this folder)
     <lastmod>2024-11-17T12:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ro"
+<<<<<<< HEAD
                 href="https://right2thecity.github.io/Flatwise-Migration/ro/tags/unbefristet-mietvertrag/"
+=======
+                href="https://tenantssupportforum.de/ro/tags/unbefristet-mietvertrag/"
+>>>>>>> 7e605bb (only deploy files in this folder)
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+<<<<<<< HEAD
                 href="https://right2thecity.github.io/Flatwise-Migration/es/tags/unbefristet-mietvertrag/"
+=======
+                href="https://tenantssupportforum.de/es/tags/unbefristet-mietvertrag/"
+>>>>>>> 7e605bb (only deploy files in this folder)
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+<<<<<<< HEAD
                 href="https://right2thecity.github.io/Flatwise-Migration/tags/unbefristet-mietvertrag/"
                 />
   </url><url>
@@ -216,15 +392,35 @@
     <lastmod>2024-11-17T12:00:00+01:00</lastmod>
   </url><url>
     <loc>https://right2thecity.github.io/Flatwise-Migration/tags/abschlagszahlung/</loc>
+=======
+                href="https://tenantssupportforum.de/tags/unbefristet-mietvertrag/"
+                />
+  </url><url>
+    <loc>https://tenantssupportforum.de/glossary/what-are-the-mieterschutzbund-and-mieterverein/</loc>
+    <lastmod>2024-11-17T12:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://tenantssupportforum.de/glossary/what-is-anmeldung/</loc>
+    <lastmod>2024-11-17T12:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://tenantssupportforum.de/glossary/what-is-the-difference-between-unbefristet-befristet-mietvertraege/</loc>
+    <lastmod>2024-11-17T12:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://tenantssupportforum.de/tags/abschlagszahlung/</loc>
+>>>>>>> 7e605bb (only deploy files in this folder)
     <lastmod>2024-11-17T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+<<<<<<< HEAD
                 href="https://right2thecity.github.io/Flatwise-Migration/es/tags/abschlagszahlung/"
+=======
+                href="https://tenantssupportforum.de/es/tags/abschlagszahlung/"
+>>>>>>> 7e605bb (only deploy files in this folder)
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+<<<<<<< HEAD
                 href="https://right2thecity.github.io/Flatwise-Migration/tags/abschlagszahlung/"
                 />
   </url><url>
@@ -235,20 +431,41 @@
     <lastmod>2024-11-17T00:00:00+01:00</lastmod>
   </url><url>
     <loc>https://right2thecity.github.io/Flatwise-Migration/tags/mietpreisbremse/</loc>
+=======
+                href="https://tenantssupportforum.de/tags/abschlagszahlung/"
+                />
+  </url><url>
+    <loc>https://tenantssupportforum.de/tags/fees/</loc>
+    <lastmod>2024-11-17T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://tenantssupportforum.de/tags/furniture/</loc>
+    <lastmod>2024-11-17T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://tenantssupportforum.de/tags/mietpreisbremse/</loc>
+>>>>>>> 7e605bb (only deploy files in this folder)
     <lastmod>2024-11-17T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ro"
+<<<<<<< HEAD
                 href="https://right2thecity.github.io/Flatwise-Migration/ro/tags/mietpreisbremse/"
+=======
+                href="https://tenantssupportforum.de/ro/tags/mietpreisbremse/"
+>>>>>>> 7e605bb (only deploy files in this folder)
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+<<<<<<< HEAD
                 href="https://right2thecity.github.io/Flatwise-Migration/es/tags/mietpreisbremse/"
+=======
+                href="https://tenantssupportforum.de/es/tags/mietpreisbremse/"
+>>>>>>> 7e605bb (only deploy files in this folder)
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+<<<<<<< HEAD
                 href="https://right2thecity.github.io/Flatwise-Migration/tags/mietpreisbremse/"
                 />
   </url><url>
@@ -314,20 +531,96 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://right2thecity.github.io/Flatwise-Migration/de/categories/"
+=======
+                href="https://tenantssupportforum.de/tags/mietpreisbremse/"
+                />
+  </url><url>
+    <loc>https://tenantssupportforum.de/tags/rental/</loc>
+    <lastmod>2024-11-17T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://tenantssupportforum.de/glossary/what-are-nebenkosten/</loc>
+    <lastmod>2024-11-17T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://tenantssupportforum.de/glossary/what-is-schufa/</loc>
+    <lastmod>2024-11-17T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://tenantssupportforum.de/glossary/what-is-b-guarantor/</loc>
+    <lastmod>2024-11-17T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://tenantssupportforum.de/glossary/what-is-indexmietvertrag/</loc>
+    <lastmod>2024-11-17T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://tenantssupportforum.de/glossary/what-is-mietschuldenfreiheitsbescheinigung/</loc>
+    <lastmod>2024-11-17T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://tenantssupportforum.de/glossary/what-is-mietspiegel/</loc>
+    <lastmod>2024-11-17T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://tenantssupportforum.de/glossary/what-is-staffelmiete/</loc>
+    <lastmod>2024-11-17T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://tenantssupportforum.de/glossary/what-is-the-abschlagszahlung/</loc>
+    <lastmod>2024-11-17T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://tenantssupportforum.de/glossary/what-is-the-mietpreisbremse/</loc>
+    <lastmod>2024-11-17T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://tenantssupportforum.de/glossary/what-is-wbs/</loc>
+    <lastmod>2024-11-17T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://tenantssupportforum.de/glossary/what-is-wohnungsbaugenossenschaft/</loc>
+    <lastmod>2024-11-17T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://tenantssupportforum.de/glossary/what-does-a-3-room-apartment-mean/</loc>
+    <lastmod>2018-12-17T22:21:42+01:00</lastmod>
+  </url><url>
+    <loc>https://tenantssupportforum.de/glossary/what-does-cold-rent-mean/</loc>
+    <lastmod>2018-12-17T22:21:42+01:00</lastmod>
+  </url><url>
+    <loc>https://tenantssupportforum.de/glossary/what-does-warm-rent-mean/</loc>
+    <lastmod>2018-12-17T22:21:42+01:00</lastmod>
+  </url><url>
+    <loc>https://tenantssupportforum.de/glossary/furnished-apartment/</loc>
+    <lastmod>2018-12-17T22:21:42+01:00</lastmod>
+  </url><url>
+    <loc>https://tenantssupportforum.de/glossary/what-is-a-kaution/</loc>
+    <lastmod>2018-12-17T22:21:42+01:00</lastmod>
+  </url><url>
+    <loc>https://tenantssupportforum.de/glossary/what-is-an-ebk/</loc>
+    <lastmod>2018-12-17T22:21:42+01:00</lastmod>
+  </url><url>
+    <loc>https://tenantssupportforum.de/glossary/unfurnished-apartment/</loc>
+    <lastmod>2018-12-17T22:21:42+01:00</lastmod>
+  </url><url>
+    <loc>https://tenantssupportforum.de/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://tenantssupportforum.de/de/categories/"
+>>>>>>> 7e605bb (only deploy files in this folder)
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ro"
+<<<<<<< HEAD
                 href="https://right2thecity.github.io/Flatwise-Migration/ro/categories/"
+=======
+                href="https://tenantssupportforum.de/ro/categories/"
+>>>>>>> 7e605bb (only deploy files in this folder)
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+<<<<<<< HEAD
                 href="https://right2thecity.github.io/Flatwise-Migration/es/categories/"
+=======
+                href="https://tenantssupportforum.de/es/categories/"
+>>>>>>> 7e605bb (only deploy files in this folder)
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+<<<<<<< HEAD
                 href="https://right2thecity.github.io/Flatwise-Migration/categories/"
                 />
   </url><url>
@@ -336,10 +629,21 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://right2thecity.github.io/Flatwise-Migration/de/guide/"
+=======
+                href="https://tenantssupportforum.de/categories/"
+                />
+  </url><url>
+    <loc>https://tenantssupportforum.de/guide/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://tenantssupportforum.de/de/guide/"
+>>>>>>> 7e605bb (only deploy files in this folder)
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+<<<<<<< HEAD
                 href="https://right2thecity.github.io/Flatwise-Migration/guide/"
                 />
   </url><url>
@@ -348,10 +652,26 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://right2thecity.github.io/Flatwise-Migration/de/scams-erkennen/"
+=======
+                href="https://tenantssupportforum.de/guide/"
+                />
+  </url><url>
+    <loc>https://tenantssupportforum.de/spot-the-scam/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://tenantssupportforum.de/de/scams-erkennen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ro"
+                href="https://tenantssupportforum.de/ro/fereste-te-de-inselatorii/"
+>>>>>>> 7e605bb (only deploy files in this folder)
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+<<<<<<< HEAD
                 href="https://right2thecity.github.io/Flatwise-Migration/spot-the-scam/"
                 />
   </url><url>
@@ -360,16 +680,39 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://right2thecity.github.io/Flatwise-Migration/de/nuetzliche-links/"
+=======
+                href="https://tenantssupportforum.de/spot-the-scam/"
+                />
+  </url><url>
+    <loc>https://tenantssupportforum.de/useful-links/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://tenantssupportforum.de/de/nuetzliche-links/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ro"
+                href="https://tenantssupportforum.de/ro/linkuri-utile/"
+>>>>>>> 7e605bb (only deploy files in this folder)
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+<<<<<<< HEAD
                 href="https://right2thecity.github.io/Flatwise-Migration/es/enlaces-utiles/"
+=======
+                href="https://tenantssupportforum.de/es/enlaces-utiles/"
+>>>>>>> 7e605bb (only deploy files in this folder)
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+<<<<<<< HEAD
                 href="https://right2thecity.github.io/Flatwise-Migration/useful-links/"
+=======
+                href="https://tenantssupportforum.de/useful-links/"
+>>>>>>> 7e605bb (only deploy files in this folder)
                 />
   </url>
 </urlset>
