@@ -43,17 +43,19 @@ Once you’ve gathered everything together, it’s time to write your applicatio
 
 ## Step 4
 Realised you could be eligible for a [Wohnungsberechtigungsschein (WBS)](/en/glossary/what-is-wbs/), i.e. access to cheaper rents? Check out these handbooks made specially for non-Germans.
-[WBS Handbook 1](https://germanyso.com/en/how-to-berlin/settle-down/english-guide-to-wohnungsberechtigungschein-wbs-for-flat/)
-[WBS Handbook 2](https://handbookgermany.de/en/wbs)
+
+- [WBS Handbook 1](https://germanyso.com/en/how-to-berlin/settle-down/english-guide-to-wohnungsberechtigungschein-wbs-for-flat/)
+- [WBS Handbook 2](https://handbookgermany.de/en/wbs)
 
 ## Step 5
 Oh my gosh, you’ve found a flat! Now we seriously recommend joining a renters’ union. They’re about 40 Euro a year in subscription fees and provide all the tenancy rights advice you need, plus legal support when necessary. Even if you think your landlord would never try to mess you around, a renters’ union membership will give you peace of mind. (And let’s be honest, they probably will). There are  a few unions out there, here are two examples: 
 
-[Mieterschutzbund](https://www.mieterschutzbund.de/) and
-[Berliner Mieterverein](https://www.berliner-mieterverein.de/)
+- [Mieterschutzbund](https://www.mieterschutzbund.de/) and
+- [Berliner Mieterverein](https://www.berliner-mieterverein.de/)
 
 ## Step 6
 You’re settled into your flat. But you’re having some issues with your landlord. Get clued up on your rights on all sorts of issues here:
+
 - German Mieterverein information on rights: [MV Rights Information](https://www.berliner-mieterverein.de/recht/infoblaetter)
 - Neighbour angst about music?: [Music Rights](https://www.berliner-mieterverein.de/recht/infoblaetter/info-94-musik-in-der-mietwohnung-was-erlaubt-ist-und-was-nicht.htm)
 - Want to get a dog? Look no further: [Pet Advice](https://www.bmgev.de/mietrecht/tipps-a-z/artikel/haustiere/)

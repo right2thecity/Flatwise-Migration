@@ -27,3 +27,4 @@ Below are some organisations which offer counselling and advice that you may fin
 - Tenancy [FAQs](https://www.bmgev.de/mietrecht/fragen-und-antworten/) in German 
 - Mietergemeinschaft [A - Z of Rights](https://www.bmgev.de/mietrecht/tipps-a-z/) in German
 - [Here you can find a guide to your tenancy rights](https://iniforum-berlin.de/2023/11/neuerscheinung-das-kleine-handbuch-wohnen-und-mieten/#more-52026) in five languages.
+- Think you're paying too much rent? Check out [Die Linke's excessive rent calculator](https://www.mietwucher.app/en).
