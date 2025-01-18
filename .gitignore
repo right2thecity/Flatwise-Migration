@@ -188,3 +188,6 @@ docs/
 
 # translation temp files
 po/*~
+
+# Deploy files
+/public/
